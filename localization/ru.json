@@ -1,8 +1,8 @@
 {
   "PREFIX": "§6CH §8§l| ",
   
-  "STATE_TOGGLE_ON": "§aтеперь отображается.",
-  "STATE_TOGGLE_OFF": "§cтеперь не отображается.",
+  "STATE_TOGGLE_ON": "§aтеперь отображается",
+  "STATE_TOGGLE_OFF": "§cтеперь не отображается",
   
   "DISCORD_RPC_TOGGLE": "§6DiscordRPC %s.",
   "DISCORD_STATE": "§aТеперь в игровой активности §6Discord §aотображается: §6%s.",
