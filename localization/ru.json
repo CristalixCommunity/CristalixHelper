@@ -24,5 +24,7 @@
   "LANGUAGE_UA_TRANSLATED": "Украинский",
   "LANGUAGE_ALREADY_PICKED": "§cУ вас уже выбран §6%s §cязык.",
   "LANGUAGE_CHANGE": "§aЯзык успешно изменён на §6%s.",
-  "LANGUAGE_WRONG": "§cЯзык §6%s §cне существует."
+  "LANGUAGE_WRONG": "§cЯзык §6%s §cне существует.",
+
+  "CATEGORY_CHAT"
 }
