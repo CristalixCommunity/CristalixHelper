@@ -26,5 +26,5 @@
   "LANGUAGE_CHANGE": "§aЯзык успешно изменён на §6%s.",
   "LANGUAGE_WRONG": "§cЯзык §6%s §cне существует.",
 
-  "CATEGORY_CHAT"
+  "CHAT_CATEGORY": ""
 }
