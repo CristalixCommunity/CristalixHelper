@@ -14,17 +14,16 @@
   "UPDATE_HAND": "§cОбновления больше не будут скачиваться автоматически.",
   "UPDATE_AVAILABLE": "§aДоступно обновление до новой версии - §6%s.",
   "UPDATE_DOWNLOAD": "§aПытаюсь скачать и установить обновление...",
+  "UPDATE_NEWS": "§aДоступно обновление до новой версии - §6%s.",
   "UPDATE_LATEST": "§aОбновления не найдены.",
   
   "LANGUAGE_RU": "Русский",
   "LANGUAGE_RU_TRANSLATED": "Русский",
-  "LANGUAGE_EN": "English",
-  "LANGUAGE_EN_TRANSLATED": "Английский",
+  "LANGUAGE_ENG": "English",
+  "LANGUAGE_ENG_TRANSLATED": "Английский",
   "LANGUAGE_UA": "Українська",
   "LANGUAGE_UA_TRANSLATED": "Украинский",
   "LANGUAGE_ALREADY_PICKED": "§cУ вас уже выбран §6%s §cязык.",
   "LANGUAGE_CHANGE": "§aЯзык успешно изменён на §6%s.",
-  "LANGUAGE_WRONG": "§cЯзык §6%s §cне существует.",
-
-  "CATEGORY_CHAT"
+  "LANGUAGE_WRONG": "§cЯзык §6%s §cне существует."
 }
